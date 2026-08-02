@@ -112,7 +112,7 @@ Summary + Action Items Table
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/meeting-notes-ai-agent.git
+git clone https://github.com/THULASIRAM018/meeting-notes-ai-agent.git
 
 cd meeting-notes-ai-agent
 ```
