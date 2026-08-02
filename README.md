@@ -167,19 +167,19 @@ http://localhost:5173
 
 ## Home Page
 
-(Add Screenshot)
+!(<screenshots/Home Page.png>)
 
 ---
 
 ## AI Summary
 
-(Add Screenshot)
+!(<screenshots/AI Summary.png>)
 
 ---
 
 ## Action Items
 
-(Add Screenshot)
+!(<screenshots/Action Items.png>)
 
 ---
 
